@@ -1,5 +1,10 @@
 ## Hi there 👋
-🎓I graduated Yasar University at 2019.
+🎓I graduated Yasar University-Computer Engineering departmant at 2019.
+🏢 I work at Arcelik.
+⚡ I'm enthusiastic learner.
+
+## How can you reach me?
+📧 You can send e-mail on m.pehlivancik@gmail.com if you want to reach me.
 <!--
 **MertPehlivancik/MertPehlivancik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

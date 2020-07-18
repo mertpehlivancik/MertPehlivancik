@@ -5,7 +5,7 @@
 
 ## How can you reach me?
 📧 You can send e-mail on m.pehlivancik@gmail.com if you want to reach me.<br>
-![mert](icons/iconHackerrank.png)
+![mert](icons/iconHackerrank.png | width=10)
 <!--
 **MertPehlivancik/MertPehlivancik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

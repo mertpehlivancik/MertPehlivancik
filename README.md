@@ -1,7 +1,7 @@
 ## Hi there 👋
 🎓I graduated Yasar University-Computer Engineering departmant at 2019.<br>
 🏢 I work at Arcelik.<br>
-⚡ I'm enthusiastic learner.
+⚡ I'm an enthusiastic learner.
 
 ## How can you reach me?
 📧 You can send e-mail on m.pehlivancik@gmail.com if you want to reach me.<br>

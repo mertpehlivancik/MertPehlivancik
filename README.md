@@ -1,6 +1,6 @@
 ## Hi there 👋
-🎓I graduated Yasar University-Computer Engineering departmant at 2019.<br>
-🏢 I work at Arcelik.<br>
+🎓 I graduated from Yasar University-Computer Engineering departmant in 2019.<br>
+🏢 I work for Arcelik.<br>
 ⚡ I'm an enthusiastic learner.
 
 ## How can you reach me?

@@ -5,6 +5,7 @@
 
 ## How can you reach me?
 📧 You can send e-mail on mpehlivancik@gmail.com if you want to reach me.<br>
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 
 <!--
 **MertPehlivancik/MertPehlivancik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

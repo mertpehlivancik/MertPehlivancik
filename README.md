@@ -15,7 +15,7 @@
 [1]: http://www.twitter.com/mertpehlivancik
 [2]: https://www.facebook.com/mpehlivancik
 
-<div class="special-class" markdown="1">
+<div class="special-class" style="background-color:powderblue" markdown="1">
 1. All
 1. Fixed 
 1. Up

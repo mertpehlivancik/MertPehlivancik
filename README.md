@@ -6,20 +6,14 @@
 ## How can you reach me?
 📧 You can send e-mail on mpehlivancik@gmail.com if you want to reach me.<br>
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
+[![twitter][1.1]][1]
+[![facebook][2.1]][2]
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 
 [1]: http://www.twitter.com/mertpehlivancik
 [2]: https://www.facebook.com/mpehlivancik
-
-<div class="special-class" style="background-color:powderblue;" markdown="1">
-1. All
-1. Fixed 
-1. Up
-</div>
 
 <!--
 **MertPehlivancik/MertPehlivancik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

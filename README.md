@@ -15,6 +15,12 @@
 [1]: http://www.twitter.com/mertpehlivancik
 [2]: https://www.facebook.com/mpehlivancik
 
+<div class="special-class" markdown="1">
+1. All
+1. Fixed 
+1. Up
+</div>
+
 <!--
 **MertPehlivancik/MertPehlivancik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

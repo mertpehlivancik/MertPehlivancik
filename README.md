@@ -10,7 +10,7 @@
 [![facebook][2.1]][2]
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook)
+[2.1]: ![image](https://user-images.githubusercontent.com/30255267/117003071-0f5e5880-aced-11eb-8d68-2f7750d0da53.png) (facebook)
 
 [1]: http://www.twitter.com/mertpehlivancik
 [2]: https://www.facebook.com/mpehlivancik

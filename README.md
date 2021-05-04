@@ -5,8 +5,10 @@
 
 ## How can you reach me?
 📧 You can send e-mail on mpehlivancik@gmail.com if you want to reach me.<br>
-
-[![twitter][1.1]][1] &nbsp
+<div align="center">
+  my text here.
+</div>
+[![twitter][1.1]][1] 
 [![facebook][2.1]][2]
 [![instagram][3.1]][3]
 [![linkedin][4.1]][4]

@@ -8,11 +8,11 @@
 
 <p>
   
-[![twitter][1.1]][1] &nbsp; &nbsp;
-[![facebook][2.1]][2] &nbsp; &nbsp;
-[![instagram][3.1]][3] &nbsp; &nbsp;
-[![linkedin][4.1]][4] &nbsp; &nbsp;
-[![hackerrank][5.1]][5] &nbsp; &nbsp;
+[![twitter][1.1]][1] &nbsp; &nbsp; &nbsp;
+[![facebook][2.1]][2] &nbsp; &nbsp; &nbsp;
+[![instagram][3.1]][3] &nbsp; &nbsp; &nbsp;
+[![linkedin][4.1]][4] &nbsp; &nbsp; &nbsp;
+[![hackerrank][5.1]][5] &nbsp; &nbsp; &nbsp;
 
 </p>
 

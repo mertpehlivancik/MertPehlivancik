@@ -8,7 +8,7 @@
 
 <p>
   
-&nbsp;&nbsp;[![twitter][1.1]][1] &nbsp;
+&nbsp; &nbsp; [![twitter][1.1]][1] &nbsp;
 [![facebook][2.1]][2] &nbsp;
 [![instagram][3.1]][3] &nbsp;
 [![linkedin][4.1]][4] &nbsp;

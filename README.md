@@ -9,7 +9,7 @@
 [![twitter][1.1]][1]
 [![facebook][2.1]][2]
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter)
+[1.1]: ./icons/twitter.png
 [2.1]: ./icons/facebook.png
 
 [1]: http://www.twitter.com/mertpehlivancik

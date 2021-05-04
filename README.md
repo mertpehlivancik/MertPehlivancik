@@ -21,7 +21,7 @@
 [1]: http://www.twitter.com/mertpehlivancik
 [2]: https://www.facebook.com/mpehlivancik
 [3]: https://www.instagram.com/mertpehlivancik
-[4]: www.linkedin.com/in/mertpehlivancik
+[4]: https://www.linkedin.com/in/mertpehlivancik
 [5]: https://www.hackerrank.com/mertpehlivancik
 
 <!--

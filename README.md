@@ -9,10 +9,10 @@
 <p>
   
 [![twitter][1.1]][1] &nbsp;
-[![facebook][2.1]][2]
-[![instagram][3.1]][3]
-[![linkedin][4.1]][4]
-[![hackerrank][5.1]][5]
+[![facebook][2.1]][2] &nbsp;
+[![instagram][3.1]][3] &nbsp;
+[![linkedin][4.1]][4] &nbsp;
+[![hackerrank][5.1]][5] &nbsp;
 
 </p>
 

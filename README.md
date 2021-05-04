@@ -6,6 +6,7 @@
 ## How can you reach me?
 📧 You can send e-mail on mpehlivancik@gmail.com if you want to reach me.<br>
 <div align="center">
+  
 [![twitter][1.1]][1] 
 [![facebook][2.1]][2]
 [![instagram][3.1]][3]
@@ -23,6 +24,7 @@
 [3]: https://www.instagram.com/mertpehlivancik
 [4]: https://www.linkedin.com/in/mertpehlivancik
 [5]: https://www.hackerrank.com/mertpehlivancik
+
 </div>
 
 <!--

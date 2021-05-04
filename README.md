@@ -9,8 +9,8 @@
 [![twitter][1.1]][1]
 [![facebook][2.1]][2]
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook)
 
 [1]: http://www.twitter.com/mertpehlivancik
 [2]: https://www.facebook.com/mpehlivancik

@@ -4,7 +4,6 @@
 ⚡ I'm an enthusiastic learner.
 
 ## How can you reach me?
-<div>
 📧 You can send e-mail on mpehlivancik@gmail.com if you want to reach me.<br>
 <div align="center">
 [![twitter][1.1]][1] 
@@ -25,7 +24,7 @@
 [4]: https://www.linkedin.com/in/mertpehlivancik
 [5]: https://www.hackerrank.com/mertpehlivancik
 </div>
-</div>
+
 <!--
 **MertPehlivancik/MertPehlivancik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

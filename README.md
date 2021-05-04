@@ -6,9 +6,8 @@
 ## How can you reach me?
 📧 You can send e-mail on mpehlivancik@gmail.com if you want to reach me.<br>
 <div align="center">
-  my text here.
-</div>
-[![twitter][1.1]][1] 
+
+  [![twitter][1.1]][1] 
 [![facebook][2.1]][2]
 [![instagram][3.1]][3]
 [![linkedin][4.1]][4]
@@ -25,6 +24,8 @@
 [3]: https://www.instagram.com/mertpehlivancik
 [4]: https://www.linkedin.com/in/mertpehlivancik
 [5]: https://www.hackerrank.com/mertpehlivancik
+
+</div>
 
 <!--
 **MertPehlivancik/MertPehlivancik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -10,7 +10,7 @@
 [![facebook][2.1]][2]
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter)
-[2.1]: ![](/icons/facebook.svg)(facebook)
+[2.1]: https://www.iconfinder.com/search/?q=facebook
 
 [1]: http://www.twitter.com/mertpehlivancik
 [2]: https://www.facebook.com/mpehlivancik

@@ -7,11 +7,13 @@
 📧 You can send e-mail on mpehlivancik@gmail.com if you want to reach me.<br>
 
 <p>
+  
 [![twitter][1.1]][1] &nbsp;
 [![facebook][2.1]][2]
 [![instagram][3.1]][3]
 [![linkedin][4.1]][4]
 [![hackerrank][5.1]][5]
+
 </p>
 
 [1.1]: ./icons/twitter.png

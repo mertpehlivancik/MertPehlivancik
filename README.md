@@ -1,6 +1,6 @@
 ## Hi there 👋
 🎓 I graduated from Yasar University-Computer engineering departmant in 2019.<br>
-🏢 I am a freelancer.<br>
+🏢 I'm a freelancer.<br>
 ⚡ I'm an enthusiastic learner.
 
 ## How can you reach me?

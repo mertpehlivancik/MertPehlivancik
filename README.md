@@ -8,8 +8,7 @@
 
 <p>
   
-[![twitter][1.1]][1] &nbsp; &nbsp; &nbsp;
-# [![facebook][2.1]][2] &nbsp; &nbsp; &nbsp; 
+[![twitter][1.1]][1] &nbsp; &nbsp; &nbsp; 
 [![instagram][3.1]][3] &nbsp; &nbsp; &nbsp;
 [![linkedin][4.1]][4] &nbsp; &nbsp; &nbsp;
 [![hackerrank][5.1]][5] &nbsp; &nbsp; &nbsp;
@@ -17,13 +16,11 @@
 </p>
 
 [1.1]: ./icons/twitter.png
-[2.1]: ./icons/facebook.png
 [3.1]: ./icons/instagram.png
 [4.1]: ./icons/linkedin.png
 [5.1]: ./icons/hackerrank.png
 
 [1]: http://www.twitter.com/mertpehlivancik
-[2]: https://www.facebook.com/mpehlivancik
 [3]: https://www.instagram.com/mertpehlivancik
 [4]: https://www.linkedin.com/in/mertpehlivancik
 [5]: https://www.hackerrank.com/mertpehlivancik
